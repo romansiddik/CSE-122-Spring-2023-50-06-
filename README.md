@@ -5,5 +5,5 @@ program:B.sc Engg. in CSE
 intake: 50
 section:6
 Blood grop:B+
-
+Email: killerroman968@gmail.com
 
